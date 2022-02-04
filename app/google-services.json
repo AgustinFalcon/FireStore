@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140893888865",
+    "project_id": "firestore-e5896",
+    "storage_bucket": "firestore-e5896.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140893888865:android:a660d17a06a6aa02e32520",
+        "android_client_info": {
+          "package_name": "com.example.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140893888865-2fcg86dlm5gsiosqd7t8ddfs96s3sv0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACiXvk2Gt6f26nmpDxC7IgjOYjvqAz-co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140893888865-2fcg86dlm5gsiosqd7t8ddfs96s3sv0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
